@@ -14,7 +14,7 @@
 - Ph.D. in **Computational Fluid Dynamics** from **Tsinghua University**, focusing on **combustion** research
 - Currently: Postdoc at **USTC** / Engineer at China National Building Material Group
 - 📧 yuzd17@tsinghua.org.cn
-- Core tools: **OpenFOAM** (C++), **Python**, JAX
+- Core tools: **OpenFOAM** (C++), **Fortran**, **Python**, JAX
 - Research interests: ammonia-coal co-combustion, PaSR model, fvDOM radiation
 
 ### Projects
